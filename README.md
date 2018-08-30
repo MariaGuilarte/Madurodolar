@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # :warning: NUDE PICS!!!, KEEP READING! :warning:
 
 <br />
@@ -25,3 +26,7 @@ I actually contacted the author, S. C. Chen ([me578022@users.sourceforge.net](ma
 Please, if this tool is useful to you, and you have the time needed to maintain a tool for the community, please contact me at [saul.martinez05@gmail.com](mailto:saul.martinez05@gmail.com).
 
 Sincerly, Saul Martínez.
+=======
+# Madurodolar
+Scrapper para seguimiento del precio de divisas
+>>>>>>> 8ab3080d685d88e37b5bfffddc1ed8f3227ecd58
